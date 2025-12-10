@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/19200932-30f8-4798-9272-69e038baaf61)
 ![image](https://github.com/user-attachments/assets/60509137-870e-4019-b73d-1e5f7e2db493)
 ![image](https://github.com/user-attachments/assets/c0a08045-4afd-432e-9939-0741bbb6b35e)
-<img width="472" height="282" alt="image" src="https://github.com/user-attachments/assets/464bedaa-38c4-4bc9-833d-26f1ee81efff" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/464bedaa-38c4-4bc9-833d-26f1ee81efff" />
 
 - Java
 - Java Spring Boot
